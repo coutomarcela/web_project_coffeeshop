@@ -102,7 +102,7 @@
   align-items: flex-end;
 }
 
-.header__footer__hours {
+.header__hours {
   display: flex;
   flex-direction: column;
 }
