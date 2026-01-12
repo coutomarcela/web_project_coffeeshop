@@ -161,3 +161,24 @@
 .recipes__video-item iframe {
   border: none;
 }
+
+.reservation {
+  background-color: #d9e7ff;
+  background-image: url("/images/background_reservation.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 100px;
+}
+
+.reservation__title {
+  margin: 0;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.reservation__form {
+  /* margens */
+}
