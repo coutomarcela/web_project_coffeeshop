@@ -115,12 +115,60 @@
         </section>
         <section class="reservation" id="reservation">
           <h2 class="reservation__title">Reservar uma mesa</h2>
-          <div class="reservation__form form">
-            <form action="" class="form__fieldset"></form>
-            <label for="" class="form__label"></label>
-            <input type="" class="form__input" />
-            <button class="form__button"></button>
-            <input type="checkbox" class="form__checkbox" />
+          <div class="form reservation__form">
+            <form action="" class="form__fieldset">
+              <label for="name" class="form__label">Nome *</label>
+              <input
+                type="text"
+                class="form__input"
+                id="name"
+                placeholder="Nome"
+                required
+              />
+              <label for="numberOfGuests" class="form__label"
+                >Número de convidados *</label
+              >
+              <input
+                type="number"
+                class="form__input"
+                id="numberOfGuests"
+                placeholder="1-8"
+                min="1"
+                max="8"
+                required
+              />
+
+              <label for="date" class="form__label">Data e hora *</label>
+              <input
+                type="datetime-local"
+                class="form__input"
+                id="date"
+                required
+              />
+
+              <label for="email" class="form__label">Seu email *</label>
+              <input
+                type="email"
+                class="form__input"
+                id="email"
+                placeholder="email@email.com"
+                required
+              />
+
+              <button class="form__button form__input" type="submit">
+                Reservar uma mesa
+              </button>
+
+              <label class="agreement">
+                <input
+                  type="checkbox"
+                  class="form__checkbox"
+                  id="agreement"
+                  required
+                />
+                <p>Eu concordo com os termos de uso</p>
+              </label>
+            </form>
           </div>
         </section>
       </main>
