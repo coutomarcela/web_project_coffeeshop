@@ -44,7 +44,7 @@
   background-image: url("/images/check.svg");
 }
 
-.agreement {
+.form__agreement {
   display: flex;
   align-items: center;
   gap: 12px;
