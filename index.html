@@ -7,7 +7,6 @@
     <meta name="author" content="Marcela" />
     <meta name="keywords" content="HTML, CSS" />
     <title>Café</title>
-    <link rel="stylesheet" href="./vendor/normalize.css" />
     <link rel="stylesheet" href="./pages/index.css" />
     <link rel="shortcut icon" href="favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -168,7 +167,45 @@
           </form>
         </section>
       </main>
-      <footer class="footer"></footer>
+      <footer class="footer" id="footer">
+        <div class="footer__circle"></div>
+        <div class="footer__content">
+          <div class="footer__logo">
+            <img
+              src="./images/logo_coffeeshop_light.svg"
+              alt="loogo triple espresso"
+            />
+          </div>
+          <div class="footer__social">
+            <div class="footer__social-heading">Mídia Social</div>
+            <ul class="footer__list">
+              <li class="footer__list-item">
+                <a class="footer__social-link" href="#">
+                  <img
+                    src="./images/facebook_white.svg"
+                    alt="facebook logo"
+                    class="footer__social-icon"
+                  />
+                  <span>Facebook</span>
+                </a>
+              </li>
+              <li class="footer__list-item">
+                <a class="footer__social-link" href="#">
+                  <img
+                    src="./images/instagram_white.svg"
+                    alt="instagram logo"
+                    class="footer__social-icon"
+                  />
+                  <span>Instagram</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <p class="footer__copyright">&copy; 2026 Marcela do Couto</p>
+        </div>
+      </footer>
     </div>
   </body>
 </html>

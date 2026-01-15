@@ -1,0 +1,70 @@
+.header {
+  background-image: url("../images/background_header.svg");
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  min-height: 720px;
+  max-height: 800px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 80px 40px;
+}
+
+.header__title {
+  max-width: 709px;
+  position: relative;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 72px;
+  letter-spacing: -1px;
+  margin: 183px 0 28px;
+}
+
+.header__description {
+  max-width: 683px;
+  font-family: "Noto Serif" "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.header__image {
+  position: absolute;
+  right: 5px;
+  top: 124px;
+  width: 646px;
+  height: 568px;
+}
+
+.header__footer {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  color: #838383;
+  margin-top: auto;
+  align-items: flex-end;
+}
+
+.header__hours {
+  display: flex;
+  flex-direction: column;
+}
+
+.header__paragraph {
+  margin: 0;
+  padding: 0;
+}
+
+.span-accent {
+  font-family: "Noto Serif";
+  font-style: italic;
+  font-size: 58px;
+  line-height: 72px;
+  color: #2f80ed;
+  display: block;
+}
