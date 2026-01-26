@@ -1,6 +1,6 @@
 # Triple Espresso
 
-Este projeto tem como objetivo a criação de um site fictício para a cafeteria da Biblioteca Triple Peaks. Ele conta com 4 seções: header, com informações básicas e menu de navegação; recipes, com vídeos de receitas inspiradoras para os amantes de café; reservation, que permite reservar uma mesa na cafeteria; e footer, com informações de contato e sobre a autoria do projeto.
+Este projeto tem como objetivo a criação de um site fictício para a cafeteria da Biblioteca Triple Peaks. Ele conta com 4 seções: header, com informações básicas e menu de navegação; recipes, com vídeos de receitas inspiradoras para os amantes de café; reservation, que permite reservar uma mesa na cafeteria; e footer, com informações de contato e sobre a autoria do projeto. As linguagens usadas foram HTML e CSS. 
 
 O principal plano de melhoria para o projeto é tornar o formulário de reservas funcional e operacional. Além disso, seria interessante criar um banco de dados com informações sobre os clientes e seus históricos de compras, o que tornaria possível a realização de análises sobre suas preferências, a elaboração de novas receitas e a sugestão de acompanhamentos ou de outros produtos de acordo com o padrão de consumo observado.
 
