@@ -1,4 +1,4 @@
-#Triple Espresso ☕
+# Triple Espresso ☕
 
 A fictional coffee shop website created as one of my first front-end development projects during my studies at TripleTen.
 
