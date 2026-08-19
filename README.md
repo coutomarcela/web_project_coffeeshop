@@ -1,7 +1,29 @@
-# Triple Espresso
+Triple Espresso ☕
 
-Este projeto tem como objetivo a criação de um site fictício para a cafeteria da Biblioteca Triple Peaks. Ele conta com 4 seções: header, com informações básicas e menu de navegação; recipes, com vídeos de receitas inspiradoras para os amantes de café; reservation, que permite reservar uma mesa na cafeteria; e footer, com informações de contato e sobre a autoria do projeto. As linguagens usadas foram HTML e CSS. 
+A fictional coffee shop website created as one of my first front-end development projects during my studies at TripleTen.
 
-O principal plano de melhoria para o projeto é tornar o formulário de reservas funcional e operacional. Além disso, seria interessante criar um banco de dados com informações sobre os clientes e seus históricos de compras, o que tornaria possível a realização de análises sobre suas preferências, a elaboração de novas receitas e a sugestão de acompanhamentos ou de outros produtos de acordo com o padrão de consumo observado.
+The project was designed for the fictional coffee shop located in the Triple Peaks Library and focuses on practicing the fundamentals of HTML and CSS.
 
-Atualmente, minha ideia de projeto final para o curso é a criação de uma plataforma que permitirá o agendamento e o pagamento de consultas para a clínica em que meus familiares trabalham.
+Sections:
+Header – provides basic information about the coffee shop and a navigation menu.
+Recipes – features inspiring recipe videos for coffee lovers.
+Reservation – allows users to make a table reservation.
+Footer – includes contact information and project credits.
+
+Technologies:
+HTML5
+CSS3
+
+What I Practiced:
+Structuring a webpage with HTML
+Creating layouts with CSS
+Working with forms
+Embedding external video content
+Organizing a webpage into different sections
+
+Future Improvements:
+One of the main improvements would be to make it fully functional, allowing users to actually book a table, since the reservation form is currently static. 
+I would also like to add a database to store customer information and purchase history. This could be used to better understand customer preferences and consumption patterns, making it possible to suggest products, pairings, or new recipes based on their interests.
+
+About
+This project represents one of my first steps into web development and helped me build a foundation in front-end development.
