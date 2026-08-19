@@ -1,14 +1,14 @@
-Triple Espresso ☕
+#**Triple Espresso ☕
 
 A fictional coffee shop website created as one of my first front-end development projects during my studies at TripleTen.
 
 The project was designed for the fictional coffee shop located in the Triple Peaks Library and focuses on practicing the fundamentals of HTML and CSS.
 
-Sections:
-Header – provides basic information about the coffee shop and a navigation menu.
-Recipes – features inspiring recipe videos for coffee lovers.
-Reservation – allows users to make a table reservation.
-Footer – includes contact information and project credits.
+# Sections:
+- Header – provides basic information about the coffee shop and a navigation menu.
+- Recipes – features inspiring recipe videos for coffee lovers.
+- Reservation – allows users to make a table reservation.
+- Footer – includes contact information and project credits.
 
 Technologies:
 HTML5
